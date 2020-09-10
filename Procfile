@@ -1,1 +1,1 @@
-web: ./ryq/ryq
+web: ./ryq/v2ray
